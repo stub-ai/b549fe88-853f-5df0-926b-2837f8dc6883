@@ -12,7 +12,10 @@ const Header = () => {
           <a className="mr-6">Profile</a>
         </Link>
         <Link href="/bookings">
-          <a>Bookings</a>
+          <a className="mr-6">Bookings</a>
+        </Link>
+        <Link href="/book">
+          <a>Book a Call</a>
         </Link>
       </nav>
     </header>
