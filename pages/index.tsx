@@ -8,6 +8,8 @@ export default function Home() {
     <main
       className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
     >
+      <h1>Welcome to Audio Call Booking</h1>
+      <p>Seamless, secure, and user-friendly audio call booking platform.</p>
     </main>
   )
 }
